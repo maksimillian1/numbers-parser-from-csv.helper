@@ -2,3 +2,4 @@ node_modules/
 *.csv
 *.xlsx
 package-lock.json
+.idea/
